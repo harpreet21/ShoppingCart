@@ -1,4 +1,4 @@
-Ethoca Shopping Cart Challenge
+Shopping Cart Challenge
 
 ------Technology Stack Used: 
 J2EE, EJB, JPA, JSP, HTML, BootStrap, MySQL, Glassfish Server
